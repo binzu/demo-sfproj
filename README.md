@@ -1,5 +1,5 @@
 # demo-sfproj
-A simple project using plain javascript and jQuery to display MongoDB database API endpoints.
+A simple project using plain javascript and jQuery to access MongoDB database API endpoints and display in an html page.
 
 ## Demo Page
 * [https://binzu.github.io/sfproj/](https://binzu.github.io/sfproj/)
@@ -12,7 +12,7 @@ A simple project using plain javascript and jQuery to display MongoDB database A
 * Use styles and html template from SF site
 
 ## Potential Features and Refactoring Backlog
-* Write better data endpoints
+* Write better API endpoints
 * Optimize load time
 * Use Angular framework instead of jQuery DataTables
 
