@@ -2,11 +2,11 @@
 A simple project using plain javascript and jQuery to access MongoDB database API endpoints and display in an html page.
 
 ## Demo Page
-* [https://vincegolveo.com/demo-sfproj/](https://vincegolveo.com/demo-sfproj/)
+* [http://vincegolveo.com/demo-sfproj/](http://vincegolveo.com/demo-sfproj/)
 
 ## Building the MVP
-* Download a CSV of [data from NYC Open Data](http://data.cityofnewyork.us/Housing-Development/DOB-Job-Application-Filings/ic3t-wcy2)
-* Store data to a collection in [mLab](http://mlab.com/) sandbox and enable simple API
+* Download a CSV of [data from NYC Open Data](https://data.cityofnewyork.us/Housing-Development/DOB-Job-Application-Filings/ic3t-wcy2)
+* Store data to a collection in [mLab](https://mlab.com/) sandbox and enable simple API
 * Use jQuery DataTables to display subset of data
 * Added a NY Zip Code filter to lower data load
 * Use styles and html template from SF site
@@ -25,4 +25,4 @@ A simple project using plain javascript and jQuery to access MongoDB database AP
 * [DataTables](https://datatables.net/) - Table plug-in for jQuery
 
 ## Author
-[Vince Golveo](https://vincegolveo.com/)
+[Vince Golveo](https://vincegolveo./)
