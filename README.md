@@ -2,7 +2,7 @@
 A simple project using plain javascript and jQuery to access MongoDB database API endpoints and display in an html page.
 
 ## Demo Page
-* [https://binzu.github.io/sfproj/](https://binzu.github.io/sfproj/)
+* [https://vincegolveo.com/demo-sfproj/](https://vincegolveo.com/demo-sfproj/)
 
 ## Building the MVP
 * Download a CSV of [data from NYC Open Data](https://data.cityofnewyork.us/Housing-Development/DOB-Job-Application-Filings/ic3t-wcy2)
@@ -25,4 +25,4 @@ A simple project using plain javascript and jQuery to access MongoDB database AP
 * [DataTables](https://datatables.net/) - Table plug-in for jQuery
 
 ## Author
-[Vince Golveo](https://binzu.github.io/)
+[Vince Golveo](https://vincegolveo.com/)
